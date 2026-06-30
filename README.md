@@ -1,4 +1,4 @@
-AI Travel Planner
+Intelligent Destination Recommendation System
 
 An intelligent travel planning application that uses machine learning to recommend destinations, generate itineraries, and predict travel budgets.
 
